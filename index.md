@@ -2,8 +2,8 @@ Håvard Fjær
 Ramstad terrasse 15  
 1405 Langhus
 
-Telefon: +47 99449959  
-havard@fjaer.com  
++47 99449959  
+[havard@fjaer.com](mailto:havard@fjaer.com)  
 
 [GitHub](http://web.archive.org/web/20210613233919/https://github.com/havard-fjaer)  
 [LinkedIn](https://www.linkedin.com/in/havardfjaer)  
