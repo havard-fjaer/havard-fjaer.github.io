@@ -1,1 +1,11 @@
-Readme MD
+Håvard Fjær  
+Ramstad terrasse 15  
+1405 Langhus
+
+Telefon: +47 99449959  
+havard@fjaer.com  
+
+[GitHub](http://web.archive.org/web/20210613233919/https://github.com/havard-fjaer)  
+[LinkedIn](https://www.linkedin.com/in/havardfjaer)  
+[Facebook](https://www.facebook.com/havard.fjaer)  
+[YouTube](https://www.youtube.com/user/havardfjaer)  
