@@ -5,7 +5,7 @@ Ramstad terrasse 15
 +47 99449959  
 [havard@fjaer.com](mailto:havard@fjaer.com)  
 
-[Documentation](https://docs.fjaer.com)  
+[Documentation](https://docs.fjær.no)  
 [GitHub](https://github.com/havard-fjaer)  
 [LinkedIn](https://www.linkedin.com/in/havardfjaer)  
 [Facebook](https://www.facebook.com/havard.fjaer)  
